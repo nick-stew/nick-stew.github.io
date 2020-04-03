@@ -1,11 +1,11 @@
 # Site settings
-author: John Stewart
-title: 
+author: Nick Stewart
+title: Why I chose to be a software engineer 
 header-img: img/home-bg.png
 email: jnicklausstewart@yahoo.com
-copyright_name: John Stewart
+copyright_name: Nick Stewart
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nick-stew
